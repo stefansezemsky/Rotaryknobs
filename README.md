@@ -1,6 +1,6 @@
 # Rotaryknobs – Drehregler-Nachrüstung für das alte Thrusmtaster F1 Wheel
 
-Mein altes Thrustmaster F1 Wheel hatte zu wenige Bedienelemente. Ich habe vier Drehgeber
+Mein altes Thrustmaster F1 Wheel hatte keine Drehregler, deswegen habe ich vier Drehregler
 nachgerüstet und mit einem Arduino ausgelesen. Je nach Spiel meldet sich der Arduino
 entweder als Tastatur oder als Joystick mit eigenen Achsen. Beide Varianten sind in
 diesem Projekt enthalten.
